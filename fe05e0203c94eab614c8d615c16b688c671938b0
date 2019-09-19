@@ -1,0 +1,1 @@
+{"jobID":"f5bd5a74-612e-8859-7ba0-c31488732408","spec":{"type":"policy","cause":{"Message":"","User":"Johan Dewe \u003cjohan@dewe.net\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
